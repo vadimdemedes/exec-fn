@@ -22,5 +22,8 @@
   "devDependencies": {
     "ava": "*",
     "make-lint": "^1.0.1"
-  }
+  },
+  "files": [
+    "index.js"
+  ]
 }
