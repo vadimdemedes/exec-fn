@@ -1,6 +1,6 @@
 {
   "name": "exec-fn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Execute function, promise, generator and get a consistent result",
   "license": "MIT",
   "main": "index.js",
