@@ -1,0 +1,26 @@
+{
+  "name": "exec-fn",
+  "version": "1.0.0",
+  "description": "Execute function, promise, generator and get a consistent result",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "vdemedes/exec-fn",
+  "author": {
+    "name": "Vadim",
+    "email": "vdemedes@gmail.com",
+    "url": "https://github.com/vdemedes"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "is-generator": "^1.0.2",
+    "is-promise": "^2.1.0",
+    "pinkie-promise": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "make-lint": "^1.0.1"
+  }
+}
